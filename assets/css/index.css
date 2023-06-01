@@ -451,9 +451,7 @@ flex-wrap: wrap;
     flex-direction: column;
   }
 
-  .lorem{
-    text-shadow: none;
-  }
+ 
 
 
   @media (min-width: 800px) {
